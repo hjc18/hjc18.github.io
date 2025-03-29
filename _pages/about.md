@@ -17,42 +17,59 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# About Me
+I'm a third-year Ph.D. student at [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn), advised by [Prof. Wenjian Yu](https://numbda.cs.tsinghua.edu.cn/index.html). 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests lie in numerical algorithms, parallel computing, and machine learning for [electronic design automation (EDA)](https://en.wikipedia.org/wiki/Electronic_design_automation).
 
+My name in Chinese: 黄杰辰.
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<span class='anchor' id='educations'></span>
 
-# 📝 Publications 
+# Educations
+- *2022 - now*, Ph.D. student in Computer Science and Technology, Tsinghua University. 
+- *2018 - 2022*, B.E. in Computer Science and Technology, Tsinghua University. 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<span class='anchor' id='publications'></span>
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+# Publications
+- ***Jiechen Huang***, Shuailong Liu, and Wenjian Yu,  
+  "A Parallel Floating Random Walk Solver for Reproducible and Reliable Capacitance Extraction",  
+  in *Proc. Design, Automation & Test in Europe Conference* (**DATE**), Lyon, France, Mar. 2025.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- Wenjian Yu, Shan Shen, Dingcheng Yang, Haoyuan Li, ***Jiechen Huang***, and Chunyan Pei,  
+  ["Deep Learning Inspired Capacitance Extraction Techniques"](https://doi.org/10.1145/3658617.3703148),  
+  in *Proc. Asia South Pacific Design Automation Conference* (**ASPDAC**), Tokyo, Japan, Jan. 2025.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- ***Jiechen Huang*** and Wenjian Yu,  
+  ["Enhancing 3-D Random Walk Capacitance Solver with Analytic Surface Green's Functions of Transition Cubes"](https://doi.org/10.1145/3649329.3658263),  
+  in *Proc. ACM/IEEE Design Automation Conference* (**DAC**), San Francisco, USA, Jun. 2024.
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- ***Jiechen Huang***, Ming Yang, and Wenjian Yu,  
+  ["The Floating Random Walk Method With Symmetric Multiple-Shooting Walks for Capacitance Extraction"](https://doi.org/10.1109/TCAD.2024.3357592),  
+  *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (**TCAD**), 43(7): 2098-2111, 2024.
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- ***Jiechen Huang***, Wenjian Yu, Mingye Song, and Ming Yang,  
+  ["Accelerated Capacitance Simulation of 3-D Structures with Considerable Amounts of General Floating Metals"](https://doi.org/10.1145/3566097.3567883),  
+  in *Proc. Asia South Pacific Design Automation Conference* (**ASPDAC**), Tokyo, Japan, Jan. 2023.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Jiahao Xu, Yibin Zhang, Shenghan Gao, ***Jiechen Huang***, Ming Yang, and Wenjian Yu,  
+  ["A 2-D Multi-Dielectric Capacitance Solver Based on Floating Random Walk Method"](https://doi.org/10.1109/CSTIC58779.2023.10219380),  
+  in *Proc. CSTIC*, Shanghai, China, Jun. 2023.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- ***Jiechen Huang***, Xu Feng, and Wenjian Yu,  
+  ["The Accelerated 3D Capacitance Extraction Based on Adaptive Low-Rank Matrix Factorization"](https://doi.org/10.3724/SP.J.1089.2022.19452),  
+  *Journal of Computer-Aided Design & Computer Graphics*, 2022.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<span class='anchor' id='awards'></span>
+
+# Awards
+- *2023*, Champion, [EDAthon](https://sites.google.com/view/ceda-hk/edathon-2023), IEEE CEDA Hong Kong Chapter.
+- *2022*, Outstanding Graduate, Dept. CS, Tsinghua University.
+- *2022*, Outstanding Graduation Thesis, Tsinghua University.
+- *2021*, The Kirin Cup (Overall Champion), [Integrated Circuit EDA Elite Challenge](https://eda.icisc.cn).
+
+<span class='anchor' id='teaching'></span>
+
+# Teaching
+- *2024 Spring*, Teaching Assistant, Numerical Analysis, Tsinghua University.
