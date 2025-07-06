@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-I'm a third-year Ph.D. student at [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn), advised by [Prof. Wenjian Yu](https://numbda.cs.tsinghua.edu.cn/index.html). 
+I'm a fourth-year Ph.D. student at [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn), advised by [Prof. Wenjian Yu](https://numbda.cs.tsinghua.edu.cn/index.html). 
 
 My research interests lie in numerical algorithms, parallel computing, and machine learning for [electronic design automation (EDA)](https://en.wikipedia.org/wiki/Electronic_design_automation).
 
@@ -27,7 +27,7 @@ My name in Chinese: 黄杰辰.
 <span class='anchor' id='educations'></span>
 
 # Educations
-- *2022 - now*, Ph.D. student in Computer Science and Technology, Tsinghua University. 
+- *2022 - now*, Ph.D. candidate in Computer Science and Technology, Tsinghua University. 
 - *2018 - 2022*, B.E. in Computer Science and Technology, Tsinghua University. 
 
 <span class='anchor' id='publications'></span>
@@ -43,7 +43,7 @@ My name in Chinese: 黄杰辰.
 
 - ***Jiechen Huang*** and Wenjian Yu,  
   ["Enhancing 3-D Random Walk Capacitance Solver with Analytic Surface Green's Functions of Transition Cubes"](https://doi.org/10.1145/3649329.3658263),  
-  in *Proc. ACM/IEEE Design Automation Conference* (**DAC**), San Francisco, USA, Jun. 2024.
+  in *Proc. ACM/IEEE Design Automation Conference* (**DAC**), San Francisco, USA, Jun. 2024. [[Package]](https://numbda.cs.tsinghua.edu.cn/packages/rwcap_agf.tar.gz)
 
 - ***Jiechen Huang***, Ming Yang, and Wenjian Yu,  
   ["The Floating Random Walk Method With Symmetric Multiple-Shooting Walks for Capacitance Extraction"](https://doi.org/10.1109/TCAD.2024.3357592),  
