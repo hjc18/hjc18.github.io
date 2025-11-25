@@ -20,7 +20,7 @@ redirect_from:
 # About Me
 I'm a fourth-year Ph.D. student at [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn), advised by [Prof. Wenjian Yu](https://numbda.cs.tsinghua.edu.cn/index.html). 
 
-My research interests lie in numerical algorithms, parallel computing, and machine learning for [electronic design automation (EDA)](https://en.wikipedia.org/wiki/Electronic_design_automation).
+My research focuses on deep learning, numerical algorithms, high performance computing for [electronic design automation (EDA)](https://en.wikipedia.org/wiki/Electronic_design_automation).
 
 My name in Chinese: 黄杰辰.
 
@@ -33,6 +33,15 @@ My name in Chinese: 黄杰辰.
 <span class='anchor' id='publications'></span>
 
 # Publications
+
+- Hector Rodriguez\*, ***Jiechen Huang\****, Wenjian Yu, \\
+  "DeepRWCap: Neural-Guided Random-Walk Capacitance Solver for IC Design",\\
+  in *Proc. AAAI Conference on Artificial Intelligence* (**AAAI**), Singapore, Jan. 2026. (***\*equal contribution***) [[arXiv]](https://arxiv.org/abs/2511.06831) [[GitHub]](https://github.com/THU-numbda/deepRWCap)
+    
+- ***Jiechen Huang***, and Wenjian Yu,\\
+  "Efficient FRW Transitions via Stochastic Finite Differences for Handling Non-Stratified Dielectrics",\\
+   *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (**TCAD**), 2025.
+
 - ***Jiechen Huang***, Shuailong Liu, and Wenjian Yu,  
   "A Parallel Floating Random Walk Solver for Reproducible and Reliable Capacitance Extraction",  
   in *Proc. Design, Automation & Test in Europe Conference* (**DATE**), Lyon, France, Mar. 2025.
