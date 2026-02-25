@@ -34,7 +34,15 @@ My name in Chinese: 黄杰辰.
 
 # Publications
 
-- Hector Rodriguez\*, ***Jiechen Huang\****, Wenjian Yu, \\
+- ***Jiechen Huang***, Hector Rodriguez, Dingcheng Yang, Zuochang Ye, Yibo Lin, and Wenjian Yu, \\
+  "AttentionCap: Transformer based capacitance matrix learning toward full-chip extraction",\\
+  in *Proc. Design Automation Conference* (**DAC**), Long Beach, USA, Jul. 2026.
+
+- Hector Rodriguez, ***Jiechen Huang***, and Wenjian Yu, \\
+  "CapBench: A multi-PDK dataset for machine-learning-based post-layout capacitance extraction",\\
+  in *Proc. Design Automation Conference* (**DAC**), Long Beach, USA, Jul. 2026.
+
+- Hector Rodriguez\*, ***Jiechen Huang\****, and Wenjian Yu, \\
   "DeepRWCap: Neural-Guided Random-Walk Capacitance Solver for IC Design",\\
   in *Proc. AAAI Conference on Artificial Intelligence* (**AAAI**), Singapore, Jan. 2026. (***\*equal contribution***) [[arXiv]](https://arxiv.org/abs/2511.06831) [[GitHub]](https://github.com/THU-numbda/deepRWCap)
     
