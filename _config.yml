@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiechen Huang"
-description              : "Ph.D. Student,<br>Dept. Comput. Sci. & Tech."
+description              : "Ph.D. Candidate,<br>Dept. Comput. Sci. & Tech."
 repository               : "hjc18/hjc18.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/hjc18"
   google_plus      :
   keybase          :
   instagram        :
